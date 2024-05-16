@@ -35,30 +35,18 @@ datapack enable "file/BlazeandCave's Advancements Pack Terralith" last
 # Hardcore
 datapack disable "file/BACAP Hardcore Fixes.zip"
 datapack enable "file/BACAP Hardcore Fixes.zip" last
-#failsafe
-datapack disable "file/BACAP Hardcore Fixes"
-datapack enable "file/BACAP Hardcore Fixes" last
 
 # Nullscape
 datapack disable "file/BACAP Nullscape Fixes.zip"
 datapack enable "file/BACAP Nullscape Fixes.zip" last
-#failsafe
-datapack disable "file/BACAP Nullscape Fixes"
-datapack enable "file/BACAP Nullscape Fixes" last
 
 # Amplified Nether
 datapack disable "file/BACAP Amplified Nether Fixes.zip"
 datapack enable "file/BACAP Amplified Nether Fixes.zip" last
-#failsafe
-datapack disable "file/BACAP Amplified Nether Fixes"
-datapack enable "file/BACAP Amplified Nether Fixes" last
 
 # Terralith
 datapack disable "file/BACAP Terralith Fixes.zip"
 datapack enable "file/BACAP Terralith Fixes.zip" last
-#failsafe
-datapack disable "file/BACAP Terralith Fixes"
-datapack enable "file/BACAP Terralith Fixes" last
 
 # Fanpack handling
 
