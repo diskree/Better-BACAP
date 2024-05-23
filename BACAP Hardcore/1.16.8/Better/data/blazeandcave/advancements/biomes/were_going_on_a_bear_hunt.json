@@ -1,0 +1,30 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:snow"
+		},
+		"title": {"translate":"We’re Going on a Bear Hunt"},
+		"description": {"translate":"Get attacked by a polar bear"},
+		"announce_to_chat": true
+
+	},
+	"parent": "blazeandcave:biomes/barbearian",
+	"rewards": {
+		"function": "bc_rewards:biomes/were_going_on_a_bear_hunt"
+	},
+	"criteria": {
+        "polar_bear": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "type": {
+						"blocked": false,
+						"direct_entity": {
+							"type": "polar_bear"
+						}
+					}
+                }
+            }
+        }
+	}
+}
